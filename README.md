@@ -2,4 +2,4 @@
 
 Following along with Dave Thomas's [Programming Elixir](https://pragprog.com/book/elixir/programming-elixir).
 
-![Book Cover](https://imagery.pragprog.com/products/361/elixir.jpg)
+![Book Cover](https://i.imgur.com/ybTaCgT.jpg)
